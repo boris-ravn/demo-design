@@ -21,8 +21,9 @@ Index only, for presenting from memory. One line per day.
   the top finding (Available badge) got a Friday correction via DOM
   inspection — it's Badge's own documented accent pairing, exactly as
   specified, and it still fails contrast.
-- **Fri** — [FIDELITY-AUDIT.md](project/FIDELITY-AUDIT.md) /
-  [UNRESOLVED-QUESTIONS.md](project/UNRESOLVED-QUESTIONS.md): Shipped 7
+- **Fri** — [deliverable-5.md](deliverable-5.md) (component repo) /
+  [FIDELITY-AUDIT.md](https://github.com/boris-ravn/vello-assignment/blob/main/FIDELITY-AUDIT.md) /
+  [UNRESOLVED-QUESTIONS.md](https://github.com/boris-ravn/vello-assignment/blob/main/UNRESOLVED-QUESTIONS.md): Shipped 7
   token/a11y fixes against real components, and logged a systemic gap —
   3 of 8 Badge variants fail the system's own 4.5:1 contrast claim — as
   an open designer question instead of guessing.

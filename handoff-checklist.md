@@ -9,7 +9,7 @@ screen and the moderation-queue flow — not a hypothetical.
    `accent` (`coral-700` on `coral-100`) to a named `success` variant
    (`green-700` on `green-100`) via the real `Badge` component — not a
    re-eyeballed hex. See the token-drift table in
-   [FIDELITY-AUDIT.md](project/FIDELITY-AUDIT.md).
+   [FIDELITY-AUDIT.md](https://github.com/boris-ravn/vello-assignment/blob/main/FIDELITY-AUDIT.md).
 
 2. **Every UI state is specified, not just the happy path.**
    This week's actual gap list: loading/skeleton, zero-review,
@@ -21,7 +21,7 @@ screen and the moderation-queue flow — not a hypothetical.
    See [deliverable-3.md](deliverable-3.md) (State/API Contract table),
    [deliverable-4.md](deliverable-4.md) (Missing States, items 14–18),
    and the backlog in
-   [UNRESOLVED-QUESTIONS.md](project/UNRESOLVED-QUESTIONS.md).
+   [UNRESOLVED-QUESTIONS.md](https://github.com/boris-ravn/vello-assignment/blob/main/UNRESOLVED-QUESTIONS.md).
 
 3. **Touch target and semantic role are stated for every interactive
    element, not just its appearance.**
@@ -39,7 +39,7 @@ screen and the moderation-queue flow — not a hypothetical.
    claim: `neutral` (4.319:1), `accent` (4.105:1), and `warning`
    (2.841:1, badly). Only `brand`/`success`, `info`, `danger`, and
    `solid` clear it. See the variant table in
-   [UNRESOLVED-QUESTIONS.md](project/UNRESOLVED-QUESTIONS.md).
+   [UNRESOLVED-QUESTIONS.md](https://github.com/boris-ravn/vello-assignment/blob/main/UNRESOLVED-QUESTIONS.md).
 
 5. **Ambiguous values are logged as an open question for a designer,
    not left for engineering to guess.**
@@ -49,7 +49,7 @@ screen and the moderation-queue flow — not a hypothetical.
    "every variant meets 4.5:1" claim is stale or was never re-verified;
    and what the Book CTA should do when a provider is `unavailable`
    (undocumented — not guessed). See
-   [UNRESOLVED-QUESTIONS.md](project/UNRESOLVED-QUESTIONS.md).
+   [UNRESOLVED-QUESTIONS.md](https://github.com/boris-ravn/vello-assignment/blob/main/UNRESOLVED-QUESTIONS.md).
 
 6. **The state/API contract is documented alongside the flow, not
    implicit.**
@@ -68,4 +68,4 @@ screen and the moderation-queue flow — not a hypothetical.
    rendered colors, not estimated. It's recorded as an open question
    rather than patched over, because the next person to build a Badge
    variant will trust the doc's claim exactly as written. See
-   [UNRESOLVED-QUESTIONS.md](project/UNRESOLVED-QUESTIONS.md).
+   [UNRESOLVED-QUESTIONS.md](https://github.com/boris-ravn/vello-assignment/blob/main/UNRESOLVED-QUESTIONS.md).

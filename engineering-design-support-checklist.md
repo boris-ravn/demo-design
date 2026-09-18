@@ -38,14 +38,14 @@ actually happened later in the week rather than left as theory.
   this week (`vello-fidelity-review`), and it's what caught 7 real
   drift fixes plus a systemic Badge contrast gap that a
   render-only check would have missed. See
-  [FIDELITY-AUDIT.md](project/FIDELITY-AUDIT.md).
+  [FIDELITY-AUDIT.md](https://github.com/boris-ravn/vello-assignment/blob/main/FIDELITY-AUDIT.md).
 
 - **Validate/Handoff: keep a living unresolved-values log instead of
   letting undocumented gaps rot silently in code.**
   When a value doesn't trace to a token, or the system's own docs fail
   their own stated standard, it gets written down as a named question
   for a designer — not silently guessed, not silently ignored. See
-  [UNRESOLVED-QUESTIONS.md](project/UNRESOLVED-QUESTIONS.md), which
+  [UNRESOLVED-QUESTIONS.md](https://github.com/boris-ravn/vello-assignment/blob/main/UNRESOLVED-QUESTIONS.md), which
   exists specifically for this.
 
 - **Cross-cutting habit confirmed this week: verify a visual/screenshot
@@ -61,4 +61,4 @@ actually happened later in the week rather than left as theory.
   false for 3 of 8 variants. Treat a confident, specific-sounding AI or
   doc claim as something to check, not a fact. See
   [deliverable-4.md](deliverable-4.md), finding #4, and
-  [UNRESOLVED-QUESTIONS.md](project/UNRESOLVED-QUESTIONS.md).
+  [UNRESOLVED-QUESTIONS.md](https://github.com/boris-ravn/vello-assignment/blob/main/UNRESOLVED-QUESTIONS.md).
