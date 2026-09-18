@@ -1,10 +1,10 @@
 # Vello Moderation Queue — Flow Verification Notes
 
-## Flow Artifact
+## Flow Summary
 
-Link: https://claude.ai/artifact/99BSU45Do6t3eGdiNRzbky
+Admin opens Profile, scrolls to "Staff tools," and taps "Moderation queue." That lands on a shared inbox mixing five case types — ID checks, Flagged reviews, Reported messages, Reported requests, Payment disputes — filterable by type, each row tagged with a severity (High/Medium/Low). Provider ID-verification is just one of those five types, worked through the same queue as everything else, not a dedicated screen.
 
-Covers an ID-check case (provider verification) moving through the real Moderation queue — Profile → Staff tools → Moderation queue → case review → Approve / Escalate / Reject.
+Opening a case shows a Review report: Reported by / What was reported / Evidence / Account history, then one of three actions. Approve is a single tap — no reason, no confirmation. Reject opens a required, single-select reason picker (Policy violation, Not enough evidence, Duplicate report, Out of scope, Needs legal review), then a Confirm reject / Never mind step. Escalate is a single tap with no reason and no confirmation — it just removes the case from the queue.
 
 ---
 
